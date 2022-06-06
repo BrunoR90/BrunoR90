@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! Eu sou o Bruno! 👋
 
 ![BrunoR90 Status](https://github-readme-stats.vercel.app/api?username=BrunoR90&theme=chartreuse-dark&show_icons=true)
 
