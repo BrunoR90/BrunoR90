@@ -1,4 +1,4 @@
-### Olá! Eu sou o Bruno! 👋
+### Olá! Eu sou o Bruno! Este é o espaço onde deixo disponíveis alguns de meus projetos. 👋
 
 ![BrunoR90 Status](https://github-readme-stats.vercel.app/api?username=BrunoR90&theme=chartreuse-dark&show_icons=true)
 
